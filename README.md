@@ -1,17 +1,17 @@
 
-# iOS 27.0 Carrier Bundles
+# iOS 27.0.1 Carrier Bundles
 
-This repo contains the Carrier Bundles currently bundled with iOS version 27.0 for the iPhone 18 Pro.
+This repo contains the Carrier Bundles currently bundled with iOS version 27.0.1 for the iPhone 18 Pro.
 ## Last Extraction Metadata
 
 #### Last Extraction Time
-`2026-09-14 18:54:00 UTC`
+`2026-09-29 06:56:33 UTC`
 
 #### iOS Build Info
 
 | iOS Version | iOS Build | iOS Build Timestamp |
 | :-------- | :------- | :------------------ |
-| 27.0 | 24A437 | 04 Sep 2026 05:24:00 UTC |
+| 27.0.1 | 24A446 | 26 Sep 2026 14:13:11 UTC |
 
 #### iOS Device Info
 
